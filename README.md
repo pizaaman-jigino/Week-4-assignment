@@ -56,7 +56,7 @@ The predicted class labels are compared against ESA official labels using:
 
 ## Results (key figures, rest of figure ive put them in main file path)
 
-### STD cluster
+### lead and sea_ice cluster
 ![lead cluster ](lead_cluster_waves_cleaned.png)
 ![sea_ice cluster ](seaice_cluster_waves_cleaned.png)
 
