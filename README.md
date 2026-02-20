@@ -58,7 +58,7 @@ The predicted class labels are compared against ESA official labels using:
 ### Mean echo shape (± 1 std)
 This figure shows the average waveform shape for each class and its variability.
 
-![Mean echo shape](mean_echoshape_wihin1std.png)
+![Mean echo shape](mean_echoshape_within1std.png)
 
 ### Confusion matrix (GMM vs ESA)
 This matrix compares my aligned GMM classification with ESA official labels.
