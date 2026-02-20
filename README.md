@@ -54,7 +54,12 @@ The predicted class labels are compared against ESA official labels using:
 
 ---
 
-## Results (key figures)
+## Results (key figures, rest of figure ive put them in main file path)
+
+### STD cluster
+![lead cluster ](lead_cluster_waves_cleaned.png)
+![sea_ice cluster ](seaice_cluster_waves_cleaned.png)
+
 ### Mean echo shape (± 1 std)
 This figure shows the average waveform shape for each class and its variability.
 
@@ -65,7 +70,3 @@ This matrix compares my aligned GMM classification with ESA official labels.
 
 ![Confusion matrix](confusion_matrix.png)
 
-### STD cluster
-![lead cluster ](lead_cluster_waves_cleaned.png)
-![sea_ice cluster ](seaice_cluster_waves_cleaned.png)
----
