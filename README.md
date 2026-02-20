@@ -65,4 +65,7 @@ This matrix compares my aligned GMM classification with ESA official labels.
 
 ![Confusion matrix](confusion_matrix.png)
 
+### STD cluster
+![lead cluster ](lead_cluster_waves_cleaned.png)
+![sea_ice cluster ](seaice_cluster_waves_cleaned.png)
 ---
