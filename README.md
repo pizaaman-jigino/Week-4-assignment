@@ -63,6 +63,6 @@ This figure shows the average waveform shape for each class and its variability.
 ### Confusion matrix (GMM vs ESA)
 This matrix compares my aligned GMM classification with ESA official labels.
 
-![Confusion matrix](GMM.png)
+![Confusion matrix](confusion_matrix.png)
 
 ---
